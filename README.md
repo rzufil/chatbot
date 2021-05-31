@@ -13,7 +13,7 @@ Chatbot functionalities:
 - Composer
 - LAMP stack
 
-## Instalation
+## Installation
 
 - Clone the repository
 - Create a MySQL database
