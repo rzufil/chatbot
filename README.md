@@ -4,7 +4,7 @@ Chatbot functionalities:
 - Login
 - Signup
 - Currency Conversion
-- Money Deposits/Withdrows
+- Money Deposits/Withdraws
 - Log
 
 ## Requirements
